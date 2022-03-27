@@ -135,7 +135,7 @@ section {
    text-align:center;
 }
 
-.intro h2{
+.section-title {
    font-size: 55px;
    color: #024e76;
    margin-bottom: 35px;
@@ -143,6 +143,10 @@ section {
    border-bottom: 3px solid;
    border-color: #fce138;
    display: inline-block;
+}
+
+.primary-border{
+   border-color: #fce138;
 }
 
 .intro p{
@@ -154,3 +158,42 @@ section {
 }
 
 /* END of what we do section */
+
+/* What You DO section  */
+
+.steps{
+   text-align: center;
+   background: #fce138;
+}
+
+.secondary-border {
+   border-color: #39a6b2;
+}
+
+.steps div{
+   margin-bottom:80px;
+}
+
+.steps img{
+   width: 15%;
+   margin: 10px 0;
+}
+
+.steps h3{
+   color: #024e76;
+   font-size:46px;
+   margin-top:10px;
+}
+
+.steps p {
+   color:#39a6b2;
+   font-size:23px;
+}
+
+.steps span{
+   font-size: 56px;
+}
+/* END What you Do section */
+
+
+
