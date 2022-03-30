@@ -12,3 +12,5 @@ https://ancosta993.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Anthony Dcosta
+
+### ©️2019 Run Buddy, Inc 
